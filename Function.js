@@ -35,3 +35,8 @@ function loginUserMessage(username){
 
 // console.log(loginUserMessage("hitesh"))
 console.log(loginUserMessage())
+
+function calculateCartprice(...num1){
+ return num1;
+}
+console.log(calculateCartprice(200,388,566,678))
